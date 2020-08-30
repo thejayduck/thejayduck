@@ -4,7 +4,7 @@
 
 # University Student / Mostly Solo Developer!
 - 🔭 I’m currently working on a Yaoi Game for "Yaoi Game Jam 2020"
-- 🌱 I’m currently learning anything I am interested in
+- 🌱 I’m currently learning "Rust"
 - ⚡ Fun fact: I enjoy drawing. 
 <!-- - 👯 I’m looking to collaborate ... -->
 
