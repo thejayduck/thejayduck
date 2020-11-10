@@ -14,7 +14,7 @@
 
 [<img align="left" alt="Itch.io" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/itch-dot-io.svg" /> ][Itch.io]
 [<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][Twitter]
-[<img align="left" alt="YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitch.svg" />][Twitch]
+[<img align="left" alt="Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][Mail]
 
 <br />
 <hr />
@@ -34,6 +34,6 @@ Readme Will be Updated With More Details Later On.
 
 [itch.io]: https://thejayduck.itch.io/
 [twitter]: https://twitter.com/thejayduck/
-[twitch]: https://twitch.com/therealjayduck/
 [unity]: https://unity.com/
 [visual studio]: https://visualstudio.microsoft.com/
+[mail]: mailto:therealjayduck@gmail.com
