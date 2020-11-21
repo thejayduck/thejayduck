@@ -3,7 +3,7 @@
 <br/>
 
 # University Student / Mostly Solo Developer!
-- 🔭 I’m currently working on my Portfolio. 
+- 🔭 I’m currently working on Winter VN Jam. 
 - 🌱 I’m currently learning "Rust"
 - ⚡ Fun fact: I enjoy drawing. 
 <!-- - 👯 I’m looking to collaborate ... -->
