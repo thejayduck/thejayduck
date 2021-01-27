@@ -3,8 +3,8 @@
 <br/>
 
 # University Student / Mostly Solo Developer!
-- 🔭 I’m currently working on University Assignments 
-- 🌱 I’m currently learning "Rust"
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning "German"
 - ⚡ Fun fact: I enjoy drawing. 
 <!-- - 👯 I’m looking to collaborate ... -->
 
