@@ -3,7 +3,7 @@
 <br/>
 
 # University Student / Mostly Solo Developer!
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on Magical Girl Game Jam #3
 - 🌱 I’m currently learning "German"
 - ⚡ Fun fact: I enjoy drawing. 
 <!-- - 👯 I’m looking to collaborate ... -->
