@@ -1,7 +1,3 @@
-### Hi there, I am Arda - Mostly known as "Jay" 👋
-
-<br/>
-
 <h1 align="center">Hi 👋, I'm Arda F.</h1>
 <h3 align="center">University Student / Mostly Solo Developer!</h3>
 
