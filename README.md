@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Rust**
 
-- 👨‍💻 All of my projects are available at [https://ardarmutcu.com/](ardarmutcu.com)
+- 👨‍💻 All of my projects are available at [ardarmutcu.com](https://ardarmutcu.com/)
 
 - 📫 How to reach me **ardafevzi.armutcu@gmail.com**
 
