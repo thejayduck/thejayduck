@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arda F.</h1>
 <h3 align="center">University Student / Mostly Solo Developer!</h3>
 
-- 🌱 I’m currently learning **Rust**
+- 🌱 I’m currently learning **German**
 
 - 👨‍💻 All of my projects are available at [ardarmutcu.com](https://ardarmutcu.com/)
 
